@@ -2,7 +2,7 @@
 
 ## Using
 
-app --path <path> --split
+app --path `path` --split
 
 --path - path to supout.rif
 
